@@ -27,6 +27,10 @@ This app uses NewsAPI to get various sources and each source can provide major h
 - Search view
 
 
-## 🔗 Link
+## 🔗 Linkedln
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadil-ansari-qadri/)
 
+## 🔗 Email
+if any query or peoblem then contact me on email address:
+
+<a href="mailto:ansariaadil786092@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" align="left" height="30" width="45" ></a>
