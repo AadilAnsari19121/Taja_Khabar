@@ -12,6 +12,7 @@ This app uses NewsAPI to get various sources and each source can provide major h
 - Run the app
 
 
+## Screenshots
 
 
 
