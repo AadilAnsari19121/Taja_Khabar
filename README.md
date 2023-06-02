@@ -14,7 +14,17 @@ This app uses NewsAPI to get various sources and each source can provide major h
 
 ## Screenshots
 
-
+![Home](https://github.com/AadilAnsari19121/Taja_Khabar/blob/master/screenshots_taja_khabar/home.jpg)
+- Home Page
+#
+![full](https://github.com/AadilAnsari19121/Taja_Khabar/blob/master/screenshots_taja_khabar/full_det.jpg)
+- Full News Page
+#
+![Tech](https://github.com/AadilAnsari19121/Taja_Khabar/blob/master/screenshots_taja_khabar/tech.jpg)
+- Category Page
+#
+![search](https://github.com/AadilAnsari19121/Taja_Khabar/blob/master/screenshots_taja_khabar/searchview.jpg)
+- Search view
 
 
 ## 🔗 Link
